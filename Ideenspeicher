@@ -1,3 +1,9 @@
+09.02.26:
 - Bilder aufhellen. 
 - Jedes Bild aufhellen?
 - Eingrenzen, was ist ein Schwein und was nicht 
+Yusuf: Helligkeit der Bilder (mit evtl. Extrahieren eines "Helligkeitsfaktor"
+Lara: Überprüfen der Angaben aus Kaggle (z.B. Angaben über Anzahl der Schweine in der Box)
+Fabio: Sortieren der einzelnen Kameras
+
+Evtl - Extrahieren von Datum, Uhrzeit, Tage, Jahreszeiten etc. - Abhängigkeit vom Helligkeitsfaktor und Class_id? Bspw. Schweine liegen im Sommer öfter als im Winter in bestimmter Position.
